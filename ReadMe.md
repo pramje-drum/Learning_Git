@@ -22,3 +22,4 @@ Today I started my journey into **Git**, a powerful **version control system** t
 
 - Covered branch pull command and merge request.
 - Merge conflict Handling.
+- I am now making the change in the same line as of the other branch.
