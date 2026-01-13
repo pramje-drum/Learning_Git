@@ -28,3 +28,4 @@ Today I started my journey into **Git**, a powerful **version control system** t
 - Trying the fetch command practically
 - Now I know the concept of fetch and pull.
 - Learning different log methods 
+- Different methods to add staged changes!
