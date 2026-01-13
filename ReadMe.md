@@ -21,5 +21,5 @@ Today I started my journey into **Git**, a powerful **version control system** t
 # Day 2 of Learning Git 🚀
 
 - Covered branch pull command and merge request.
-- Merge conflict Handling.
-- I am now making the change in the same line as of the other branch.
+- Handling the Merge Conflicts!!
+- Intentionally creating merge conflict between two branches.
