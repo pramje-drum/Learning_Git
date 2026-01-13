@@ -22,3 +22,4 @@ Today I started my journey into **Git**, a powerful **version control system** t
 
 - Covered branch pull command and merge request.
 - Handling the Merge Conflicts!!
+- Intentionally creating merge conflict between two branches.
