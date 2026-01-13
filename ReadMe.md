@@ -25,3 +25,5 @@ Today I started my journey into **Git**, a powerful **version control system** t
 - Intentionally creating merge conflict between two branches.
 - Finally learned how to solve conflict basics (took me long time)
 - Now will learn the fetch command!
+- Trying the fetch command practically
+- Now I know the concept of fetch and pull.
