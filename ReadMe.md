@@ -21,3 +21,7 @@ Today I started my journey into **Git**, a powerful **version control system** t
 ---
 
 > "Version control is like a time machine for your code." ⏳
+
+
+# Day 2 of Learning Git 🚀
+
