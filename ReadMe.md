@@ -18,10 +18,7 @@ Today I started my journey into **Git**, a powerful **version control system** t
 - Learn `git commit` and `git push` commands thoroughly.
 - Explore remote repositories and collaboration workflows.
 
----
-
-> "Version control is like a time machine for your code." ⏳
-
-
 # Day 2 of Learning Git 🚀
 
+- Covered branch pull command and merge request.
+- Merge conflict Handling.
