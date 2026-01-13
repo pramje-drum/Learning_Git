@@ -5,3 +5,5 @@ Joke ho rha hai
 =======
 Sahil is looking at me
 >>>>>>> d8f8d3b (Update)
+
+learn hwo to use fetch
