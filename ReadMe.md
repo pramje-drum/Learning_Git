@@ -30,3 +30,4 @@ Today I started my journey into **Git**, a powerful **version control system** t
 - Learning different log methods 
 - Different methods to add staged changes!
 - How to change previous commited message  
+- completed the concept of stashing and rebasing
