@@ -21,4 +21,4 @@ Today I started my journey into **Git**, a powerful **version control system** t
 # Day 2 of Learning Git 🚀
 
 - Covered branch pull command and merge request.
-- 
+- Handling the Merge Conflicts!!
