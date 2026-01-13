@@ -29,3 +29,4 @@ Today I started my journey into **Git**, a powerful **version control system** t
 - Now I know the concept of fetch and pull.
 - Learning different log methods 
 - Different methods to add staged changes!
+- How to change previous commited message  
