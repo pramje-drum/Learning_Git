@@ -36,3 +36,4 @@ Today I started my journey into **Git**, a powerful **version control system** t
 
 - Completed Resetting - soft, hard , mixed
 - Also learned the Revert command
+- Completed Git!!
