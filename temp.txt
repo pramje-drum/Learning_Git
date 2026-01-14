@@ -7,4 +7,4 @@ ok i am trying again
 new message second time for soft commit
 
 
-i am making this commit to do something related to revert 
+lets see will it change to something
