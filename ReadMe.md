@@ -34,3 +34,4 @@ Today I started my journey into **Git**, a powerful **version control system** t
 
 # Day 3 of Learning Git 🚀
 
+- Completed Resetting - soft, hard , mixed
