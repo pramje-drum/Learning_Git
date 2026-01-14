@@ -7,6 +7,9 @@ const Index = () => {
 			<h1>Hello drum</h1>
 			<p>Sahil is sitting beside me!!</p>
 			<p>Vivek is sitting in front of me!</p>
+			<p>Vivek is sitting in front of me!</p>
+			<p>Vivek is sitting in front of me!</p>
+			<p>Vivek is sitting in front of me!</p>
 		</div>
 	);
 };
