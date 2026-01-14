@@ -31,3 +31,6 @@ Today I started my journey into **Git**, a powerful **version control system** t
 - Different methods to add staged changes!
 - How to change previous commited message  
 - completed the concept of stashing and rebasing
+
+# Day 3 of Learning Git 🚀
+
