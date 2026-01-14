@@ -1,2 +1,7 @@
 Today i will be learning resetting and rebase.
 The new message to use soft commit
+
+
+ok i am trying again
+
+new message second time for soft commit
